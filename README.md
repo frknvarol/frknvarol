@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
-![](https://github-readme-stats-git-master-frknvarols-projects.vercel.app/api?username=frknvarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-frknvarols-projects.vercel.app/api?username=frknvarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 #
-![](https://github-readme-stats-git-master-frknvarols-projects.vercel.app/api/top-langs/?username=frknvarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![](https://github-readme-stats-frknvarols-projects.vercel.app/api/top-langs/?username=frknvarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 #
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frknvarol&theme=dark&hide_border=false)
 
